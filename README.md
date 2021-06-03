@@ -1,5 +1,5 @@
-todo-app
-#
-Simply todo app with server on node.js 
+# todo-app
 
-Swift 5.4, MVC, Codable, URL, UIKit, Foundation, Node.JS
+Simply client-server app. You can add tasks, select the priority of task (but deleting was not added 🥲, maybe later)
+
+Swift 5.4, MVC, Codable, URL, DispatchQueue, UIKit, Foundation, Node.JS
