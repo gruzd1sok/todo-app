@@ -2,7 +2,7 @@
 
 ## Simply client-server app. You can add tasks, select the priority of task (but deleting was not added 🥲, maybe later)
 
-<img src="https://github.com/gruzd1sok/todo-app/raw/images/main.png" alt="app picture" width="200" height="400">
+<img src="https://github.com/gruzd1sok/goalpost-app/raw/main/images/main.png" alt="main app" width="200" height="400">  <img 
 
 - MVC
 - UIKit
